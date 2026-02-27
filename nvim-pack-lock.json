@@ -4,6 +4,18 @@
       "rev": "47f91c416daef12db467145e16bed5bbfe00add8",
       "src": "https://github.com/nvim-lualine/lualine.nvim"
     },
+    "mason-tool-installer.nvim": {
+      "rev": "443f1ef8b5e6bf47045cb2217b6f748a223cf7dc",
+      "src": "https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim"
+    },
+    "mason.nvim": {
+      "rev": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65",
+      "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "nvim-lspconfig": {
+      "rev": "f2193125da0bff2e4eae8e0a45e343ec9bca4c72",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    },
     "nvim-tree.lua": {
       "rev": "018a078c1e149bcd0c4e65c92aabb8e12501d769",
       "src": "https://github.com/nvim-tree/nvim-tree.lua"
