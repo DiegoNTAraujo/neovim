@@ -7,5 +7,6 @@ require("plugins.statusline")
 
 require("plugins.lsp")
 require("plugins.completion")
+require("plugins.formatting")
 
 require("plugins.telescope")
