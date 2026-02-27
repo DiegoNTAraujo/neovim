@@ -19,7 +19,7 @@ require("blink.cmp").setup({
       enabled = true
     },
     menu = {
-      auto_show = false,
+      auto_show = true,
       border = "rounded",
       draw = {
         columns = { { "label", "label_description", gap = 1 }, { "kind_icon", "kind", gap = 1 } }
