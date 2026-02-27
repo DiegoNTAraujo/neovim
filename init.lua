@@ -6,5 +6,6 @@ require("plugins.explorer")
 require("plugins.statusline")
 
 require("plugins.lsp")
+require("plugins.completion")
 
 require("plugins.telescope")
