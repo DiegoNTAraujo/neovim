@@ -12,6 +12,8 @@ require("mason-tool-installer").setup({
     "css-lsp",
     "lua-language-server",
     -- Formatters
+    "prettier",
+    "prettierd",
     "stylua"
   }
 })
