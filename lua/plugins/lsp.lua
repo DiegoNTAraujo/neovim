@@ -8,6 +8,8 @@ require("mason").setup()
 require("mason-tool-installer").setup({
   ensure_installed = {
     -- LSP
+    "html-lsp",
+    "css-lsp",
     "lua-language-server",
     -- Formatters
     "stylua"
@@ -15,6 +17,8 @@ require("mason-tool-installer").setup({
 })
 
 vim.lsp.enable({
+  "html",
+  "cssls",
   "lua_ls"
 })
 
